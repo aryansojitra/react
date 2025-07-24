@@ -1,10 +1,11 @@
 import { useState } from 'react'
+import Chai from './chai'
 
 
 function App() {
 
   return (
-  <h1>aryan sojitra</h1>
+  <Chai/>
   )
 }
 
